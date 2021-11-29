@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css?family=Montserrat:100,300,400,700');
 
 * {
@@ -1826,6 +1827,8 @@ td:first-child {
 .related-products a:hover .text {
     display: block;
 =======
+=======
+>>>>>>> e33fd23cffbfdea622883ecd1316b5b41f8334a3
 @import url('https://fonts.googleapis.com/css?family=Montserrat:100,300,400,700');
 
 * {
@@ -3652,5 +3655,8 @@ td:first-child {
 
 .related-products a:hover .text {
     display: block;
+<<<<<<< HEAD
 >>>>>>> e4d03cfdbad895833b799b299ab8a4f71748f159
+=======
+>>>>>>> e33fd23cffbfdea622883ecd1316b5b41f8334a3
 }
