@@ -7,7 +7,7 @@ jQuery(document).ready(function () {
         console.log(event);
         event.preventDefault();
     });
-    
+
     // можем получить DOM-объект меню через jQuery
     $('.menu').on('click', 'a', function () {
         console.log('event', event);
