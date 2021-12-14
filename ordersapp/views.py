@@ -12,6 +12,8 @@ from ordersapp.forms import OrderItemForm
 from ordersapp.models import Order, OrderItem
 from mainapp.models import Product
 from django.http import JsonResponse
+from mainapp.models import Product
+from django.http import JsonResponse
 
 class OrderList(ListView):
     model = Order
